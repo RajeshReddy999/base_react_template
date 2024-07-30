@@ -14,7 +14,6 @@ src
         - css
         - fonts
         - images
-        - img
         - sass
         - webfonts
     - components
@@ -83,7 +82,6 @@ src
             - css
             - fonts
             - images
-            - img
             - sass
             - webfonts
         - context
@@ -120,7 +118,6 @@ src
   - css: Stylesheets.
   - fonts: Font files.
   - images: Images.
-  - img: Additional images.
   - sass: SASS/SCSS files.
   - webfonts: Web font files.
 
